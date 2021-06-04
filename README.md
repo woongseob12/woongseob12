@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=woongseob12)](https://solved.ac/woongseob12)
+
 <!--
 **woongseob12/woongseob12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
