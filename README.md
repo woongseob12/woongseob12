@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![woongseob12's github stats](https://github-readme-stats.vercel.app/api?username=woongseob12&show_icons=true)
+
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=woongseob12)](https://solved.ac/woongseob12)
 
 <!--
