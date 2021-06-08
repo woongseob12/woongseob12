@@ -1,11 +1,12 @@
 ## 하의👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoongseob12%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 알고리즘 대한 열정만큼은 자신있습니다.
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=woongseob12)](https://solved.ac/woongseob12)
 
 
-https://github.com/gjbae1212/hit-counter
 <!--
 ![woongseob12's github stats](https://github-readme-stats.vercel.app/api?username=woongseob12&show_icons=true)
 **woongseob12/woongseob12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
